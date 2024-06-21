@@ -1,2 +1,2 @@
 # tailwaid-test
-a small practice project for tailwind
+a small project for practising tailwind CSS.
